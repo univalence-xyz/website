@@ -19,6 +19,7 @@ export default {
         'float': 'float 8s ease-in-out infinite',
         'float-slow': 'float 12s ease-in-out infinite',
         'pulse-slow': 'pulse 6s ease-in-out infinite',
+        'spin-slow': 'spin 20s linear infinite',
       },
       keyframes: {
         float: {
